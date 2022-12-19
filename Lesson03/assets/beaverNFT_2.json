@@ -2,7 +2,7 @@
     "tokenId": 2,
     "name": "Beaver NFT #2",
     "description": "Beaver NFTs are great",
-    "image": "https://raw.githubusercontent.com/beaver-codes/BeaverNFT/master/assets/beaverNFT_2.png",
+    "image": "https://raw.githubusercontent.com/flex021981/learn_solidity/main/Lesson03/assets/beaverNFT_2.png",
     "external_url": "https://github.com/beaver-codes/BeaverNFT",
     "attributes": [
         {
